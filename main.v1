@@ -148,7 +148,7 @@ int main() {
 		if (gameOver){
 			system("cls");
 
-			cout << "##    ##    ####    ##    ##        ##          #### " << endl;
+			cout << "##    ##    ####    ##    ##        ##          ####     " << endl;
 			cout << " ##  ##    ##  ##   ##    ##        ##         ##  ## " << endl;
 			cout << "  ####    ##    ##  ##    ##        ##        ##    ## " << endl;
 			cout << "   ##     ##    ##  ##    ##        ##        ##    ##" << endl;
